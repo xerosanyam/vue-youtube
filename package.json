@@ -141,6 +141,6 @@
   "license": "MIT",
   "dependencies": {
     "get-youtube-id": "^1.0.0",
-    "youtube-player": "^5.4.0"
+    "youtube-player": "https://github.com/xerosanyam/youtube-player/tarball/master"
   }
 }
